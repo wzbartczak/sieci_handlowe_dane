@@ -1,0 +1,12 @@
+Netto: https://netto.pl/umbraco/api/StoresData/StoresV2
+Kaufland: https://www.kaufland.pl/.klstorefinder.json
+Carrefour/Globi/Supeco: https://www.carrefour.pl/web/pickup-locations?size=10000&shouldLabels=carrefour,market,express,expressConvenience,globi,supeco&mustLabels=locator (wymaga odwiedzenia wcześniej strony https://www.carrefour.pl/sklepy
+
+Brak dostępu do 'normalnego' API:
+ABC - https://sklepyabc.pl/Nasze-sklepy
+Auchan -  https://www.auchan.pl/pl/znajdz-sklep - wymaga 'grzebania' w narzędziach dewelopera
+Lidl - brak api, ponoć udostępniają listę sklepów w .gpx
+Lewiatan - https://lewiatan.pl/znajdz-sklep?search=Wroc%C5%82aw (wymaga podania lokalizacji)
+Społem - dużo stron, brak jednej mapy
+Top Market - https://www.topmarkety.pl/sklepy - brak api
+Żabka - https://www.zabka.pl/ajax/shop-clusters.json - tutaj lista lokalizacji (lat, lng) + id sklepu (bez szczegółów0
